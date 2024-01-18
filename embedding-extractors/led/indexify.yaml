@@ -1,0 +1,8 @@
+# indexify.yaml
+
+- model: led-base-16384
+  name: LED Base 16384
+  description: Pre-trained LED model with 16384 embeddings.
+  model_path: models/led-base-16384
+  tokenizer: allenai/led-base-16384
+
